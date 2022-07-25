@@ -1,4 +1,4 @@
-package com.example.springcore;
+package com.example.springcore.configuration;
 
 import com.example.springcore.model.Foo;
 import org.springframework.context.annotation.Bean;
